@@ -138,9 +138,3 @@ Application Running (nginx on port 8080)
 > Docker architecture works in a client-server model where the client sends commands to the daemon, which manages images, containers, and registry communication to run applications in isolated environments.
 
 ---
-
-If you want next, I can give:
-
-* 🔥 2-minute viva answer script
-* 🔥 diagram explanation in bullet form (for writing in exam)
-* 🔥 Practical 3 (Dockerfile + build + run full project)
